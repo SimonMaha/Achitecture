@@ -1,2 +1,4 @@
 hello
-s
+hi
+bye
+Good Morning
